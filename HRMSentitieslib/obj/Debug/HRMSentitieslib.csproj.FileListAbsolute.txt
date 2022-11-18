@@ -1,0 +1,5 @@
+E:\CAPGEMINI\projects\HRMSentitieslib\bin\Debug\HRMSentitieslib.dll
+E:\CAPGEMINI\projects\HRMSentitieslib\bin\Debug\HRMSentitieslib.pdb
+E:\CAPGEMINI\projects\HRMSentitieslib\obj\Debug\HRMSentitieslib.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\HRMSentitieslib\obj\Debug\HRMSentitieslib.dll
+E:\CAPGEMINI\projects\HRMSentitieslib\obj\Debug\HRMSentitieslib.pdb

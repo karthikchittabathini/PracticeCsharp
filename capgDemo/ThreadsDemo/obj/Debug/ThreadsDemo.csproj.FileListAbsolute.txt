@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\bin\Debug\ThreadsDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\bin\Debug\ThreadsDemo.exe
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\bin\Debug\ThreadsDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\obj\Debug\ThreadsDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\obj\Debug\ThreadsDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\obj\Debug\ThreadsDemo.exe
+E:\CAPGEMINI\projects\capgDemo\ThreadsDemo\obj\Debug\ThreadsDemo.pdb

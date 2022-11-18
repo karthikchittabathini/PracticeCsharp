@@ -1,0 +1,5 @@
+E:\CAPGEMINI\projects\capgDemo\CapgDemo_lib\bin\Debug\CapgDemo_lib.dll
+E:\CAPGEMINI\projects\capgDemo\CapgDemo_lib\bin\Debug\CapgDemo_lib.pdb
+E:\CAPGEMINI\projects\capgDemo\CapgDemo_lib\obj\Debug\CapgDemo_lib.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\CapgDemo_lib\obj\Debug\CapgDemo_lib.dll
+E:\CAPGEMINI\projects\capgDemo\CapgDemo_lib\obj\Debug\CapgDemo_lib.pdb

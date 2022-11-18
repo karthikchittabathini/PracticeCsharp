@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\bin\Release\capgdemo_ConsoleDay2.exe.config
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\bin\Release\capgdemo_ConsoleDay2.exe
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\bin\Release\capgdemo_ConsoleDay2.pdb
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Release\capgdemo_ConsoleDay2.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Release\capgdemo_ConsoleDay2.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Release\capgdemo_ConsoleDay2.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Release\capgdemo_ConsoleDay2.exe
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Release\capgdemo_ConsoleDay2.pdb

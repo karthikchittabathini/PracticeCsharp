@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\bin\Debug\TasksDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\bin\Debug\TasksDemo.exe
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\bin\Debug\TasksDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\obj\Debug\TasksDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\obj\Debug\TasksDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\obj\Debug\TasksDemo.exe
+E:\CAPGEMINI\projects\capgDemo\TasksDemo\obj\Debug\TasksDemo.pdb

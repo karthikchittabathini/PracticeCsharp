@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\bin\Release\AsoperatorDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\bin\Release\AsoperatorDemo.exe
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\bin\Release\AsoperatorDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\obj\Release\AsoperatorDemo.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\obj\Release\AsoperatorDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\obj\Release\AsoperatorDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\obj\Release\AsoperatorDemo.exe
+E:\CAPGEMINI\projects\capgDemo\AsoperatorDemo\obj\Release\AsoperatorDemo.pdb

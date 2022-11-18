@@ -1,0 +1,9 @@
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\bin\Debug\HRMSDataAccessLayerLib.dll
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\bin\Debug\HRMSDataAccessLayerLib.pdb
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\bin\Debug\HRMSentitieslib.dll
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\bin\Debug\HRMSentitieslib.pdb
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\obj\Debug\HRMSDataAccessLayerLib.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\obj\Debug\HRMSDataAccessLayerLib.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\obj\Debug\HRMSDataAccessLayerLib.csproj.CopyComplete
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\obj\Debug\HRMSDataAccessLayerLib.dll
+E:\CAPGEMINI\projects\HRMSDataAccessLayerLib\obj\Debug\HRMSDataAccessLayerLib.pdb

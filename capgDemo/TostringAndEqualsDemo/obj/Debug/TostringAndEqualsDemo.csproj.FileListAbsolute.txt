@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\bin\Debug\TostringAndEqualsDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\bin\Debug\TostringAndEqualsDemo.exe
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\bin\Debug\TostringAndEqualsDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\obj\Debug\TostringAndEqualsDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\obj\Debug\TostringAndEqualsDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\obj\Debug\TostringAndEqualsDemo.exe
+E:\CAPGEMINI\projects\capgDemo\TostringAndEqualsDemo\obj\Debug\TostringAndEqualsDemo.pdb

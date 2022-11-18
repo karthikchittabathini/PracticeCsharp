@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\LinqDemos\bin\Debug\LinqDemos.exe.config
+E:\CAPGEMINI\projects\LinqDemos\bin\Debug\LinqDemos.exe
+E:\CAPGEMINI\projects\LinqDemos\bin\Debug\LinqDemos.pdb
+E:\CAPGEMINI\projects\LinqDemos\obj\Debug\LinqDemos.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\LinqDemos\obj\Debug\LinqDemos.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\LinqDemos\obj\Debug\LinqDemos.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\LinqDemos\obj\Debug\LinqDemos.exe
+E:\CAPGEMINI\projects\LinqDemos\obj\Debug\LinqDemos.pdb

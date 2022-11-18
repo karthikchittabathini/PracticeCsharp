@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\DataAceessLayer\bin\Debug\DataAceessLayer.exe.config
+E:\CAPGEMINI\projects\DataAceessLayer\bin\Debug\DataAceessLayer.exe
+E:\CAPGEMINI\projects\DataAceessLayer\bin\Debug\DataAceessLayer.pdb
+E:\CAPGEMINI\projects\DataAceessLayer\obj\Debug\DataAceessLayer.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\DataAceessLayer\obj\Debug\DataAceessLayer.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\DataAceessLayer\obj\Debug\DataAceessLayer.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\DataAceessLayer\obj\Debug\DataAceessLayer.exe
+E:\CAPGEMINI\projects\DataAceessLayer\obj\Debug\DataAceessLayer.pdb

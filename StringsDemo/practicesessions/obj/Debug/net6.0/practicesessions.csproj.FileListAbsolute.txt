@@ -1,0 +1,15 @@
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\bin\Debug\net6.0\practicesessions.exe
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\bin\Debug\net6.0\practicesessions.deps.json
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\bin\Debug\net6.0\practicesessions.runtimeconfig.json
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\bin\Debug\net6.0\practicesessions.dll
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\bin\Debug\net6.0\practicesessions.pdb
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.AssemblyInfoInputs.cache
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.AssemblyInfo.cs
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.dll
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\refint\practicesessions.dll
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.pdb
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\practicesessions.genruntimeconfig.cache
+E:\CAPGEMINI\projects\StringsDemo\practicesessions\obj\Debug\net6.0\ref\practicesessions.dll

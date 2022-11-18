@@ -1,0 +1,9 @@
+E:\CAPGEMINI\projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\CAPGEMINI\projects\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\CAPGEMINI\projects\DataAccessLayer\bin\Debug\BusinessObjects.dll
+E:\CAPGEMINI\projects\DataAccessLayer\bin\Debug\BusinessObjects.pdb
+E:\CAPGEMINI\projects\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\CAPGEMINI\projects\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\CAPGEMINI\projects\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

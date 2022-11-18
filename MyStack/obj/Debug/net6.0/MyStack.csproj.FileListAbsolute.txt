@@ -1,0 +1,15 @@
+E:\CAPGEMINI\projects\MyStack\bin\Debug\net6.0\MyStack.exe
+E:\CAPGEMINI\projects\MyStack\bin\Debug\net6.0\MyStack.deps.json
+E:\CAPGEMINI\projects\MyStack\bin\Debug\net6.0\MyStack.runtimeconfig.json
+E:\CAPGEMINI\projects\MyStack\bin\Debug\net6.0\MyStack.dll
+E:\CAPGEMINI\projects\MyStack\bin\Debug\net6.0\MyStack.pdb
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.AssemblyInfoInputs.cache
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.AssemblyInfo.cs
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.dll
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\refint\MyStack.dll
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.pdb
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\MyStack.genruntimeconfig.cache
+E:\CAPGEMINI\projects\MyStack\obj\Debug\net6.0\ref\MyStack.dll

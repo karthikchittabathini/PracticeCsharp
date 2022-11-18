@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\obj\Debug\IsOperatorDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\obj\Debug\IsOperatorDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\bin\Debug\IsOperatorDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\bin\Debug\IsOperatorDemo.exe
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\bin\Debug\IsOperatorDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\obj\Debug\IsOperatorDemo.exe
+E:\CAPGEMINI\projects\capgDemo\IsOperatorDemo\obj\Debug\IsOperatorDemo.pdb

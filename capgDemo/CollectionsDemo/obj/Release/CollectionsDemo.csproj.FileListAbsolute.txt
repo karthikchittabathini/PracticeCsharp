@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\bin\Release\CollectionsDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\bin\Release\CollectionsDemo.exe
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\bin\Release\CollectionsDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\obj\Release\CollectionsDemo.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\obj\Release\CollectionsDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\obj\Release\CollectionsDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\obj\Release\CollectionsDemo.exe
+E:\CAPGEMINI\projects\capgDemo\CollectionsDemo\obj\Release\CollectionsDemo.pdb

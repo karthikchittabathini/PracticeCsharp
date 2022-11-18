@@ -1,0 +1,15 @@
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSConsoleUI.exe.config
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSConsoleUI.exe
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSConsoleUI.pdb
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSBusinessLayerLIb.dll
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSentitieslib.dll
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSBusinessLayerLIb.pdb
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSentitieslib.pdb
+E:\CAPGEMINI\projects\HRMSConsoleUI\obj\Debug\HRMSConsoleUI.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\HRMSConsoleUI\obj\Debug\HRMSConsoleUI.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\HRMSConsoleUI\obj\Debug\HRMSConsoleUI.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\HRMSConsoleUI\obj\Debug\HRMSConsoleUI.csproj.CopyComplete
+E:\CAPGEMINI\projects\HRMSConsoleUI\obj\Debug\HRMSConsoleUI.exe
+E:\CAPGEMINI\projects\HRMSConsoleUI\obj\Debug\HRMSConsoleUI.pdb
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSDataAccessLayerLib.dll
+E:\CAPGEMINI\projects\HRMSConsoleUI\bin\Debug\HRMSDataAccessLayerLib.pdb

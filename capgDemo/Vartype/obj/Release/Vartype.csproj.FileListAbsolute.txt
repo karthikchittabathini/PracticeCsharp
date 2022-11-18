@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\Vartype\bin\Release\Vartype.exe.config
+E:\CAPGEMINI\projects\capgDemo\Vartype\bin\Release\Vartype.exe
+E:\CAPGEMINI\projects\capgDemo\Vartype\bin\Release\Vartype.pdb
+E:\CAPGEMINI\projects\capgDemo\Vartype\obj\Release\Vartype.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\Vartype\obj\Release\Vartype.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\Vartype\obj\Release\Vartype.exe
+E:\CAPGEMINI\projects\capgDemo\Vartype\obj\Release\Vartype.pdb

@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\FilesDemo\bin\Debug\FilesDemo.exe.config
+E:\CAPGEMINI\projects\FilesDemo\bin\Debug\FilesDemo.exe
+E:\CAPGEMINI\projects\FilesDemo\bin\Debug\FilesDemo.pdb
+E:\CAPGEMINI\projects\FilesDemo\obj\Debug\FilesDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\FilesDemo\obj\Debug\FilesDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\FilesDemo\obj\Debug\FilesDemo.exe
+E:\CAPGEMINI\projects\FilesDemo\obj\Debug\FilesDemo.pdb
+E:\CAPGEMINI\projects\FilesDemo\obj\Debug\FilesDemo.csproj.AssemblyReference.cache

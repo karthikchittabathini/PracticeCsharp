@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\DateAndTimeDemo\bin\Debug\DateAndTimeDemo.exe.config
+E:\CAPGEMINI\projects\DateAndTimeDemo\bin\Debug\DateAndTimeDemo.exe
+E:\CAPGEMINI\projects\DateAndTimeDemo\bin\Debug\DateAndTimeDemo.pdb
+E:\CAPGEMINI\projects\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.exe
+E:\CAPGEMINI\projects\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.pdb

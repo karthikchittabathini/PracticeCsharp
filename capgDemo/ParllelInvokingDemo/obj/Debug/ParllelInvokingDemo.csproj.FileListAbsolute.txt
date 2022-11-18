@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\obj\Debug\ParllelInvokingDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\obj\Debug\ParllelInvokingDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\bin\Debug\ParllelInvokingDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\bin\Debug\ParllelInvokingDemo.exe
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\bin\Debug\ParllelInvokingDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\obj\Debug\ParllelInvokingDemo.exe
+E:\CAPGEMINI\projects\capgDemo\ParllelInvokingDemo\obj\Debug\ParllelInvokingDemo.pdb

@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\bin\Debug\StringMethodsPractice.exe.config
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\bin\Debug\StringMethodsPractice.exe
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\bin\Debug\StringMethodsPractice.pdb
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\obj\Debug\StringMethodsPractice.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\obj\Debug\StringMethodsPractice.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\obj\Debug\StringMethodsPractice.exe
+E:\CAPGEMINI\projects\capgDemo\StringMethodsPractice\obj\Debug\StringMethodsPractice.pdb

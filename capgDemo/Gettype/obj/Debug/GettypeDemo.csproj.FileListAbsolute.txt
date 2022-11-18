@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\Gettype\bin\Debug\Gettype.exe.config
+E:\CAPGEMINI\projects\capgDemo\Gettype\bin\Debug\Gettype.exe
+E:\CAPGEMINI\projects\capgDemo\Gettype\bin\Debug\Gettype.pdb
+E:\CAPGEMINI\projects\capgDemo\Gettype\obj\Debug\GettypeDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\Gettype\obj\Debug\GettypeDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\Gettype\obj\Debug\Gettype.exe
+E:\CAPGEMINI\projects\capgDemo\Gettype\obj\Debug\Gettype.pdb

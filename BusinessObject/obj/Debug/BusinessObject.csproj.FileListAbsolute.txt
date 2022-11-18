@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\BusinessObject\bin\Debug\BusinessObject.exe.config
+E:\CAPGEMINI\projects\BusinessObject\bin\Debug\BusinessObject.exe
+E:\CAPGEMINI\projects\BusinessObject\bin\Debug\BusinessObject.pdb
+E:\CAPGEMINI\projects\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\BusinessObject\obj\Debug\BusinessObject.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\BusinessObject\obj\Debug\BusinessObject.exe
+E:\CAPGEMINI\projects\BusinessObject\obj\Debug\BusinessObject.pdb

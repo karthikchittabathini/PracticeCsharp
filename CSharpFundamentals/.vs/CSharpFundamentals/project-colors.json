@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6073f0f3-cc48-4807-ade5-a90336655c0b": {
+      "ProjectGuid": "6073f0f3-cc48-4807-ade5-a90336655c0b",
+      "DisplayName": "CSharpFundamentals",
+      "ColorIndex": 0
+    },
+    "5c5dbc56-1fca-4bb8-9656-7fa71db5555b": {
+      "ProjectGuid": "5c5dbc56-1fca-4bb8-9656-7fa71db5555b",
+      "DisplayName": "DateAndTimeDemo",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3bd6705e-0091-4a95-8074-9025f9a127ca": {
+      "ProjectGuid": "3bd6705e-0091-4a95-8074-9025f9a127ca",
+      "DisplayName": "StringsDemo",
+      "ColorIndex": 2
+    },
+    "654f85f3-ea4c-470a-8d21-6ab06ea7b134": {
+      "ProjectGuid": "654f85f3-ea4c-470a-8d21-6ab06ea7b134",
+      "DisplayName": "StringBuilderDemo",
+      "ColorIndex": 3
+    },
+    "9d493afe-47f6-437b-9fab-7f9c53ad2c51": {
+      "ProjectGuid": "9d493afe-47f6-437b-9fab-7f9c53ad2c51",
+      "DisplayName": "FilesDemo",
+      "ColorIndex": 4
+    },
+    "de9d616c-e778-402e-bcfe-32f7e490ad3a": {
+      "ProjectGuid": "de9d616c-e778-402e-bcfe-32f7e490ad3a",
+      "DisplayName": "ParseDemo",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

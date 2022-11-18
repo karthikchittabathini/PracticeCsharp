@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\AdoDotNetConnection\obj\Debug\AdoDotNetConnection.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\AdoDotNetConnection\obj\Debug\AdoDotNetConnection.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\AdoDotNetConnection\bin\Debug\AdoDotNetConnection.exe.config
+E:\CAPGEMINI\projects\AdoDotNetConnection\bin\Debug\AdoDotNetConnection.exe
+E:\CAPGEMINI\projects\AdoDotNetConnection\bin\Debug\AdoDotNetConnection.pdb
+E:\CAPGEMINI\projects\AdoDotNetConnection\obj\Debug\AdoDotNetConnection.exe
+E:\CAPGEMINI\projects\AdoDotNetConnection\obj\Debug\AdoDotNetConnection.pdb

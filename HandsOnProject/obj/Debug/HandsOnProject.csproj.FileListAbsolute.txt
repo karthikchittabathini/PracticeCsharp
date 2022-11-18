@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\HandsOnProject\bin\Debug\HandsOnProject.exe.config
+E:\CAPGEMINI\projects\HandsOnProject\bin\Debug\HandsOnProject.exe
+E:\CAPGEMINI\projects\HandsOnProject\bin\Debug\HandsOnProject.pdb
+E:\CAPGEMINI\projects\HandsOnProject\obj\Debug\HandsOnProject.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\HandsOnProject\obj\Debug\HandsOnProject.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\HandsOnProject\obj\Debug\HandsOnProject.exe
+E:\CAPGEMINI\projects\HandsOnProject\obj\Debug\HandsOnProject.pdb
+E:\CAPGEMINI\projects\HandsOnProject\obj\Debug\HandsOnProject.csproj.AssemblyReference.cache

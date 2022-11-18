@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\Outworking\bin\Debug\Outworking.exe.config
+E:\CAPGEMINI\projects\capgDemo\Outworking\bin\Debug\Outworking.exe
+E:\CAPGEMINI\projects\capgDemo\Outworking\bin\Debug\Outworking.pdb
+E:\CAPGEMINI\projects\capgDemo\Outworking\obj\Debug\Outworking.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\Outworking\obj\Debug\Outworking.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\Outworking\obj\Debug\Outworking.exe
+E:\CAPGEMINI\projects\capgDemo\Outworking\obj\Debug\Outworking.pdb

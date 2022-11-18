@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\Refworking\bin\Release\Refworking.exe.config
+E:\CAPGEMINI\projects\capgDemo\Refworking\bin\Release\Refworking.exe
+E:\CAPGEMINI\projects\capgDemo\Refworking\bin\Release\Refworking.pdb
+E:\CAPGEMINI\projects\capgDemo\Refworking\obj\Release\Refworking.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\Refworking\obj\Release\Refworking.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\Refworking\obj\Release\Refworking.exe
+E:\CAPGEMINI\projects\capgDemo\Refworking\obj\Release\Refworking.pdb

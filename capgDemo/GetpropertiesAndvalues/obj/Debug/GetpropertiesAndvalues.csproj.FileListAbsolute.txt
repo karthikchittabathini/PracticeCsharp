@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\bin\Debug\GetpropertiesAndvalues.exe.config
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\bin\Debug\GetpropertiesAndvalues.exe
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\bin\Debug\GetpropertiesAndvalues.pdb
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\obj\Debug\GetpropertiesAndvalues.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\obj\Debug\GetpropertiesAndvalues.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\obj\Debug\GetpropertiesAndvalues.exe
+E:\CAPGEMINI\projects\capgDemo\GetpropertiesAndvalues\obj\Debug\GetpropertiesAndvalues.pdb

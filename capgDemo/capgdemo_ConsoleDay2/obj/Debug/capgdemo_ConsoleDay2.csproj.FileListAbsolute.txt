@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\bin\Debug\capgdemo_ConsoleDay2.exe.config
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\bin\Debug\capgdemo_ConsoleDay2.exe
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\bin\Debug\capgdemo_ConsoleDay2.pdb
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Debug\capgdemo_ConsoleDay2.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Debug\capgdemo_ConsoleDay2.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Debug\capgdemo_ConsoleDay2.exe
+E:\CAPGEMINI\projects\capgDemo\capgdemo_ConsoleDay2\obj\Debug\capgdemo_ConsoleDay2.pdb

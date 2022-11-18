@@ -1,0 +1,15 @@
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\HandsonAdoDotNetEx.exe.config
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\HandsonAdoDotNetEx.exe
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\HandsonAdoDotNetEx.pdb
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\obj\Debug\HandsonAdoDotNetEx.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\obj\Debug\HandsonAdoDotNetEx.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\obj\Debug\HandsonAdoDotNetEx.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\obj\Debug\HandsonAdoDotNetEx.exe
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\obj\Debug\HandsonAdoDotNetEx.pdb
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\BusinessLayerr.dll
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\BusinessObjects.dll
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\DataAccessLayer.dll
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\BusinessLayerr.pdb
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\BusinessObjects.pdb
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\bin\Debug\DataAccessLayer.pdb
+E:\CAPGEMINI\projects\HandsonAdoDotNetEx\obj\Debug\HandsonAdoDotNetEx.csproj.CopyComplete

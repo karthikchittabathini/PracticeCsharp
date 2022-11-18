@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\bin\Debug\FilesDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\bin\Debug\FilesDemo.exe
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\bin\Debug\FilesDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\obj\Debug\FilesDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\obj\Debug\FilesDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\obj\Debug\FilesDemo.exe
+E:\CAPGEMINI\projects\capgDemo\FilesDemo\obj\Debug\FilesDemo.pdb

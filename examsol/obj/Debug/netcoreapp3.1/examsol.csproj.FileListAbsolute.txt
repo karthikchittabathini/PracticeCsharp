@@ -1,0 +1,14 @@
+E:\CAPGEMINI\projects\examsol\bin\Debug\netcoreapp3.1\examsol.exe
+E:\CAPGEMINI\projects\examsol\bin\Debug\netcoreapp3.1\examsol.deps.json
+E:\CAPGEMINI\projects\examsol\bin\Debug\netcoreapp3.1\examsol.runtimeconfig.json
+E:\CAPGEMINI\projects\examsol\bin\Debug\netcoreapp3.1\examsol.runtimeconfig.dev.json
+E:\CAPGEMINI\projects\examsol\bin\Debug\netcoreapp3.1\examsol.dll
+E:\CAPGEMINI\projects\examsol\bin\Debug\netcoreapp3.1\examsol.pdb
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.AssemblyInfoInputs.cache
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.AssemblyInfo.cs
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.dll
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.pdb
+E:\CAPGEMINI\projects\examsol\obj\Debug\netcoreapp3.1\examsol.genruntimeconfig.cache

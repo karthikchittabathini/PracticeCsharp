@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+E:\CAPGEMINI\projects\capgDemo\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb

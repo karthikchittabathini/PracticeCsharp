@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+E:\CAPGEMINI\projects\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+E:\CAPGEMINI\projects\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+E:\CAPGEMINI\projects\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+E:\CAPGEMINI\projects\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+E:\CAPGEMINI\projects\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe.config
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.pdb
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.exe
+E:\CAPGEMINI\projects\ConsoleDemo1\ConsoleDemo1\obj\Debug\ConsoleDemo1.pdb

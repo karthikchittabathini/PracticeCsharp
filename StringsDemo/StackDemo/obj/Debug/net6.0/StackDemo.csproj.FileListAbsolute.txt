@@ -1,0 +1,15 @@
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\bin\Debug\net6.0\StackDemo.exe
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\bin\Debug\net6.0\StackDemo.deps.json
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\bin\Debug\net6.0\StackDemo.runtimeconfig.json
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\bin\Debug\net6.0\StackDemo.dll
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\bin\Debug\net6.0\StackDemo.pdb
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.AssemblyInfoInputs.cache
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.AssemblyInfo.cs
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.dll
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\refint\StackDemo.dll
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.pdb
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\StackDemo.genruntimeconfig.cache
+E:\CAPGEMINI\projects\StringsDemo\StackDemo\obj\Debug\net6.0\ref\StackDemo.dll

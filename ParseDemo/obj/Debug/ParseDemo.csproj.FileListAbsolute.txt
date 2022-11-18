@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\ParseDemo\obj\Debug\ParseDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\ParseDemo\obj\Debug\ParseDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\ParseDemo\bin\Debug\ParseDemo.exe.config
+E:\CAPGEMINI\projects\ParseDemo\bin\Debug\ParseDemo.exe
+E:\CAPGEMINI\projects\ParseDemo\bin\Debug\ParseDemo.pdb
+E:\CAPGEMINI\projects\ParseDemo\obj\Debug\ParseDemo.exe
+E:\CAPGEMINI\projects\ParseDemo\obj\Debug\ParseDemo.pdb

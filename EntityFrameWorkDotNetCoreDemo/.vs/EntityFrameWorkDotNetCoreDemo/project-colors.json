@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5d85ef1-6b97-4ac5-bab0-a1318db0e680": {
+      "ProjectGuid": "c5d85ef1-6b97-4ac5-bab0-a1318db0e680",
+      "DisplayName": "EntityFrameWorkDotNetCoreDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

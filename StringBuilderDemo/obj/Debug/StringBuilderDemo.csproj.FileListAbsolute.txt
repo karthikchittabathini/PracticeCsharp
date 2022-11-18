@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe.config
+E:\CAPGEMINI\projects\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe
+E:\CAPGEMINI\projects\StringBuilderDemo\bin\Debug\StringBuilderDemo.pdb
+E:\CAPGEMINI\projects\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\StringBuilderDemo\obj\Debug\StringBuilderDemo.exe
+E:\CAPGEMINI\projects\StringBuilderDemo\obj\Debug\StringBuilderDemo.pdb

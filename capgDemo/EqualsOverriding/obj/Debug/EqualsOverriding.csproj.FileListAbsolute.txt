@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\bin\Debug\EqualsOverriding.exe.config
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\bin\Debug\EqualsOverriding.exe
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\bin\Debug\EqualsOverriding.pdb
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\obj\Debug\EqualsOverriding.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\obj\Debug\EqualsOverriding.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\obj\Debug\EqualsOverriding.exe
+E:\CAPGEMINI\projects\capgDemo\EqualsOverriding\obj\Debug\EqualsOverriding.pdb

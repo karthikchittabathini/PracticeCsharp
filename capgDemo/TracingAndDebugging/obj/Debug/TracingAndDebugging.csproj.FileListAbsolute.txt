@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\bin\Debug\TracingAndDebugging.exe.config
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\bin\Debug\TracingAndDebugging.exe
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\bin\Debug\TracingAndDebugging.pdb
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\obj\Debug\TracingAndDebugging.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\obj\Debug\TracingAndDebugging.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\obj\Debug\TracingAndDebugging.exe
+E:\CAPGEMINI\projects\capgDemo\TracingAndDebugging\obj\Debug\TracingAndDebugging.pdb

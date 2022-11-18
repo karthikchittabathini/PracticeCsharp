@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\bin\Debug\Delegatedemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\bin\Debug\Delegatedemo.exe
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\bin\Debug\Delegatedemo.pdb
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\obj\Debug\Delegatedemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\obj\Debug\Delegatedemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\obj\Debug\Delegatedemo.exe
+E:\CAPGEMINI\projects\capgDemo\Delegatedemo\obj\Debug\Delegatedemo.pdb

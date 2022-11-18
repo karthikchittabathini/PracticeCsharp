@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\bin\Debug\TasksContunuationDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\bin\Debug\TasksContunuationDemo.exe
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\bin\Debug\TasksContunuationDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\obj\Debug\TasksContunuationDemo.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\obj\Debug\TasksContunuationDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\obj\Debug\TasksContunuationDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\obj\Debug\TasksContunuationDemo.exe
+E:\CAPGEMINI\projects\capgDemo\TasksContunuationDemo\obj\Debug\TasksContunuationDemo.pdb

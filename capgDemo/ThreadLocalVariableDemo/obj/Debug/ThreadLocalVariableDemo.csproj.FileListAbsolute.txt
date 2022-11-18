@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\bin\Debug\ThreadLocalVariableDemo.exe.config
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\bin\Debug\ThreadLocalVariableDemo.exe
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\bin\Debug\ThreadLocalVariableDemo.pdb
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\obj\Debug\ThreadLocalVariableDemo.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\obj\Debug\ThreadLocalVariableDemo.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\obj\Debug\ThreadLocalVariableDemo.exe
+E:\CAPGEMINI\projects\capgDemo\ThreadLocalVariableDemo\obj\Debug\ThreadLocalVariableDemo.pdb

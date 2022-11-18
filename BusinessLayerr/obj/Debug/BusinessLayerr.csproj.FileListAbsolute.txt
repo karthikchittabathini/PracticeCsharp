@@ -1,0 +1,11 @@
+E:\CAPGEMINI\projects\BusinessLayerr\bin\Debug\BusinessLayerr.dll
+E:\CAPGEMINI\projects\BusinessLayerr\bin\Debug\BusinessLayerr.pdb
+E:\CAPGEMINI\projects\BusinessLayerr\obj\Debug\BusinessLayerr.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\BusinessLayerr\obj\Debug\BusinessLayerr.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\BusinessLayerr\obj\Debug\BusinessLayerr.dll
+E:\CAPGEMINI\projects\BusinessLayerr\obj\Debug\BusinessLayerr.pdb
+E:\CAPGEMINI\projects\BusinessLayerr\bin\Debug\BusinessObjects.dll
+E:\CAPGEMINI\projects\BusinessLayerr\bin\Debug\DataAccessLayer.dll
+E:\CAPGEMINI\projects\BusinessLayerr\bin\Debug\BusinessObjects.pdb
+E:\CAPGEMINI\projects\BusinessLayerr\bin\Debug\DataAccessLayer.pdb
+E:\CAPGEMINI\projects\BusinessLayerr\obj\Debug\BusinessLayerr.csproj.CopyComplete

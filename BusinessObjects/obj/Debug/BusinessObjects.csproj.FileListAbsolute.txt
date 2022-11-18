@@ -1,0 +1,5 @@
+E:\CAPGEMINI\projects\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\CAPGEMINI\projects\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\CAPGEMINI\projects\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\CAPGEMINI\projects\BusinessObjects\obj\Debug\BusinessObjects.pdb

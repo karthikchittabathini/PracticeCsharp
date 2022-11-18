@@ -1,0 +1,11 @@
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\WebApplicationTesting.exe
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\WebApplicationTesting.dll
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\WebApplicationTesting.deps.json
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\WebApplicationTesting.runtimeconfig.json
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\WebApplicationTesting.pdb
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CAPGEMINI\projects\WebApplicationTesting\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

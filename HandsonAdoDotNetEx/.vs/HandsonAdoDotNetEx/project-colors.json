@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfb4c030-b218-485c-8b47-39507e2216b3": {
+      "ProjectGuid": "cfb4c030-b218-485c-8b47-39507e2216b3",
+      "DisplayName": "HandsonAdoDotNetEx",
+      "ColorIndex": 0
+    },
+    "9bab4605-27f6-49f5-9b35-f28a147ca99b": {
+      "ProjectGuid": "9bab4605-27f6-49f5-9b35-f28a147ca99b",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "307b2350-783c-4165-bde6-a9b1208adfa1": {
+      "ProjectGuid": "307b2350-783c-4165-bde6-a9b1208adfa1",
+      "DisplayName": "BusinessObjects",
+      "ColorIndex": 2
+    },
+    "00a811be-1065-47f0-88f8-1cb407960173": {
+      "ProjectGuid": "00a811be-1065-47f0-88f8-1cb407960173",
+      "DisplayName": "BusinessLayerr",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

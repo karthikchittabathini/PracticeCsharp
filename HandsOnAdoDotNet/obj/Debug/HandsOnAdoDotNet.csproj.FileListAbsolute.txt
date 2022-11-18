@@ -1,0 +1,8 @@
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\bin\Debug\HandsOnAdoDotNet.exe.config
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\bin\Debug\HandsOnAdoDotNet.exe
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\bin\Debug\HandsOnAdoDotNet.pdb
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\obj\Debug\HandsOnAdoDotNet.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\obj\Debug\HandsOnAdoDotNet.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\obj\Debug\HandsOnAdoDotNet.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\obj\Debug\HandsOnAdoDotNet.exe
+E:\CAPGEMINI\projects\HandsOnAdoDotNet\obj\Debug\HandsOnAdoDotNet.pdb

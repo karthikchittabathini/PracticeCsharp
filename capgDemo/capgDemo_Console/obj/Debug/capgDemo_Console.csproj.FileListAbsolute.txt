@@ -1,0 +1,11 @@
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\bin\Debug\capgDemo_Console.exe.config
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\bin\Debug\capgDemo_Console.exe
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\bin\Debug\capgDemo_Console.pdb
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\obj\Debug\capgDemo_Console.csproj.AssemblyReference.cache
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\obj\Debug\capgDemo_Console.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\obj\Debug\capgDemo_Console.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\obj\Debug\capgDemo_Console.exe
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\obj\Debug\capgDemo_Console.pdb
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\bin\Debug\CapgDemo_lib.dll
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\bin\Debug\CapgDemo_lib.pdb
+E:\CAPGEMINI\projects\capgDemo\capgDemo_Console\obj\Debug\capgDemo_Console.csproj.CopyComplete

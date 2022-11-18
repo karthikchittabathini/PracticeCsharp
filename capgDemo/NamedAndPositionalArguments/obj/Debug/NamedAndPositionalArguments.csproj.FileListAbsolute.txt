@@ -1,0 +1,7 @@
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\bin\Debug\NamedAndPositionalArguments.exe.config
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\bin\Debug\NamedAndPositionalArguments.exe
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\bin\Debug\NamedAndPositionalArguments.pdb
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\obj\Debug\NamedAndPositionalArguments.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\obj\Debug\NamedAndPositionalArguments.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\obj\Debug\NamedAndPositionalArguments.exe
+E:\CAPGEMINI\projects\capgDemo\NamedAndPositionalArguments\obj\Debug\NamedAndPositionalArguments.pdb
